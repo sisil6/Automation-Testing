@@ -1,0 +1,15 @@
+D:\Documents\repos\AutomationTasks\AutomationTasks\AutomationTasks\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+D:\Documents\repos\AutomationTasks\AutomationTasks\AutomationTasks\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+D:\Documents\repos\AutomationTasks\AutomationTasks\AutomationTasks\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+D:\Documents\repos\AutomationTasks\AutomationTasks\AutomationTasks\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+D:\Documents\repos\AutomationTasks\AutomationTasks\AutomationTasks\bin\Debug\netcoreapp2.0\AutomationTasks.deps.json
+D:\Documents\repos\AutomationTasks\AutomationTasks\AutomationTasks\bin\Debug\netcoreapp2.0\AutomationTasks.runtimeconfig.json
+D:\Documents\repos\AutomationTasks\AutomationTasks\AutomationTasks\bin\Debug\netcoreapp2.0\AutomationTasks.runtimeconfig.dev.json
+D:\Documents\repos\AutomationTasks\AutomationTasks\AutomationTasks\bin\Debug\netcoreapp2.0\AutomationTasks.dll
+D:\Documents\repos\AutomationTasks\AutomationTasks\AutomationTasks\bin\Debug\netcoreapp2.0\AutomationTasks.pdb
+D:\Documents\repos\AutomationTasks\AutomationTasks\AutomationTasks\obj\Debug\netcoreapp2.0\AutomationTasks.csprojAssemblyReference.cache
+D:\Documents\repos\AutomationTasks\AutomationTasks\AutomationTasks\obj\Debug\netcoreapp2.0\AutomationTasks.csproj.CoreCompileInputs.cache
+D:\Documents\repos\AutomationTasks\AutomationTasks\AutomationTasks\obj\Debug\netcoreapp2.0\AutomationTasks.AssemblyInfoInputs.cache
+D:\Documents\repos\AutomationTasks\AutomationTasks\AutomationTasks\obj\Debug\netcoreapp2.0\AutomationTasks.AssemblyInfo.cs
+D:\Documents\repos\AutomationTasks\AutomationTasks\AutomationTasks\obj\Debug\netcoreapp2.0\AutomationTasks.dll
+D:\Documents\repos\AutomationTasks\AutomationTasks\AutomationTasks\obj\Debug\netcoreapp2.0\AutomationTasks.pdb
